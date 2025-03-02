@@ -17,4 +17,6 @@ To upload a local application:
 
 ```bash
 $ argocd app sync APPNAME --local /path/to/dir/
+
+
 ```
